@@ -1,0 +1,141 @@
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+/*Instagram */
+
+.links-instagram {
+    text-align: center;
+    margin-top: 20px;
+    padding: 18px;
+    border: solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.links-instagram:hover {
+    text-align: center;
+     margin-top: 20px;
+     padding: 18px;
+     background: #833a84;
+     background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833a84);
+     background: linear-gradient(to right, #fcb045, #fd1d1d, #833a84);
+    
+     width: 290px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 20px;
+     font-size: 15px;
+     color: black;
+}
+
+/* LinkedIn */
+
+.links-linkedin {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.links-linkedin:hover {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #0077B5; /* Warna biru khas LinkedIn */
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-size: 15px;
+    color: white; /* Warna teks pada hover */
+    transition: background 0.3s; /* Efek transisi untuk perubahan latar belakang */
+}
+
+/* Github */
+
+.links-github {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.links-github:hover {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #24292e; /* Warna latar belakang khas GitHub */
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-size: 15px;
+    color: white; /* Warna teks pada hover */
+    transition: background 0.3s; /* Efek transisi untuk perubahan latar belakang */
+}
+
+/* E-Mail */
+
+.links-email {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.links-email:hover {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #D44638; /* Warna latar belakang yang sering digunakan untuk email */
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-size: 15px;
+    color: white; /* Warna teks pada hover */
+    transition: background 0.3s; /* Efek transisi untuk perubahan latar belakang */
+}
+
+

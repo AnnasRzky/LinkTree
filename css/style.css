@@ -1,0 +1,62 @@
+body {
+    background: black;
+    color: white;
+    font-family: 'open sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+link {
+    width: 10%;
+}
+
+.ProfilePic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    overflow: hidden; 
+    width: 90px;
+    height: 95px;
+    padding: 10px;
+    border: 3px solid rgb(255, 255, 255);
+    box-shadow: 0px 4px 8px 0px black;
+}
+
+.ProfileData {
+    padding: 20px;
+}
+
+.ProfileName {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 17px;
+}
+
+.ProfileName1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 17px;
+    padding: 9px;
+}
+
+.bottom-text {
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
+
+.bottom-text1 {
+    font-size: 17px;
+    text-align: center;
+    pointer-events: none;
+    color: inherit; /* Menjaga warna teks tetap sama */
+    text-decoration: none; /* Menghilangkan garis bawah */
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: color 1s;
+}
